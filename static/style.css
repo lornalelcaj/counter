@@ -1,0 +1,25 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  
+}
+form{
+    display: inline;
+
+
+}
+input{
+    text-align: center;
+    color: aqua;
+    background-color: pink;
+    padding: 5px;
+    margin: 10px;
+}
+h3{
+    margin-left: 50px;
+    color: aqua;
+}
+h1{
+    color: pink;
+}
